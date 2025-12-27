@@ -1,0 +1,19 @@
+Folder PATH listing
+Volume serial number is 0A15-AA54
+C:\USERS\DELL\DOWNLOADS\CONTEXT-APP\SRC
+|   App.js
+|   index.js
+|   
++---components
++---contexts
+|       ApiContext.js
+|       AuthContext.js
+|       ProductContext.js
+|       ThemeContext.js
+|       
++---pages
+\---screens
+        LoginScreen.js
+        ProductDetailsScreen.js
+        ProductListScreen.js
+        
